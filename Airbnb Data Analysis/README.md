@@ -1,7 +1,5 @@
 # 🏠 Airbnb Data Analysis — SQL Assignment
 
-## 📌 Overview
-
 This project analyzes Airbnb listing, calendar, and review data using SQL to extract insights related to property diversity, guest ratings, host engagement, booking trends, and pricing patterns.
 
 The assignment focuses on using structured SQL queries to evaluate key areas of Airbnb performance and identify opportunities related to customer needs, host performance, occupancy, and pricing. 
