@@ -1,7 +1,5 @@
 # 👟 Adidas US Sales Analysis & Dashboard
 
-## 📊 About
-
 **Adidas US Sales Analysis** examines **2020–2021 Adidas sales data** across regions, retailers,
 products, profitability, and sales methods, using **Microsoft Excel** to transform transactional
 data into an interactive dashboard and business insights.
